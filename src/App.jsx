@@ -46,6 +46,10 @@ function App() {
             <h3><a href="#" className="project-link">cookedcourse</a></h3>
             <p>Curates a course from YouTube of your syllabus, built using <span>React</span>, <span>Tailwind</span> & <span>YouTube API v3</span></p>
           </div>
+          <div className="project-item">
+            <h3><a href="#" className="project-link">issuepack</a></h3>
+            <p>A multi-agent system that reads your GitHub issues, touches your code, and opens a PR.</p>
+          </div>
         </section>
 
         <footer className="contact">
