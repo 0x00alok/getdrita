@@ -20,7 +20,7 @@ function App() {
           <a href="https://www.linkedin.com/in/alok-kumar-05136222b/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <FaLinkedin />
           </a>
-          <a href="https://github.com/Drita-ai" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+          <a href="https://github.com/0x00alok" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
             <FaGithub />
           </a>
           <a href="https://docs.google.com/document/d/1oh0HfZLyIskvJMcy7gDqHJv1cJzIDlLTRuObd6T1r_s/edit?tab=t.0" target="_blank" rel="noopener noreferrer" aria-label="Resume">
@@ -43,11 +43,11 @@ function App() {
           <h2>Projects</h2>
 
           <div className="project-item">
-            <h3><a href="#" className="project-link">cookedcourse</a></h3>
+            <h3><a href="https://github.com/0x00alok/coookedcourse" className="project-link">cookedcourse</a></h3>
             <p>Curates a course from YouTube of your syllabus, built using <span>React</span>, <span>Tailwind</span> & <span>YouTube API v3</span></p>
           </div>
           <div className="project-item">
-            <h3><a href="#" className="project-link">issuepack</a></h3>
+            <h3><a href="https://github.com/0x00alok/issuepack" className="project-link">issuepack</a></h3>
             <p>A multi-agent system that reads your GitHub issues, touches your code, and opens a PR.</p>
           </div>
         </section>
